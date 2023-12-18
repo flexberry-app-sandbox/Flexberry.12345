@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Расположение",
+  "name": "IIS12345РасположениеE",
+  "className": "РасположениеE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-12345-расположение",
+      "modelProjection": "РасположениеE"
+    }
+  ]
+}

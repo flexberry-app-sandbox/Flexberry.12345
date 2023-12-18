@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-12345-должность-e",
+  "editForm": "i-i-s-12345-должность-e",
+  "external": false,
+  "caption": "Должность",
+  "name": "IIS12345ДолжностьL",
+  "className": "ДолжностьL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-12345-должность",
+      "modelProjection": "ДолжностьL"
+    }
+  ]
+}

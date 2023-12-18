@@ -1,0 +1,31 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Расположение",
+      "projection": "РасположениеL",
+      "detailModelName": null
+    },
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Серверная",
+      "projection": "СервернаяL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Отчет о сервере",
+  "name": "IIS12345ОтчетОСервереE",
+  "className": "ОтчетОСервереE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-12345-отчет-о-сервере",
+      "modelProjection": "ОтчетОСервереE"
+    }
+  ]
+}
